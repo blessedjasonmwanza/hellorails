@@ -1,13 +1,14 @@
-# README
+# Hello Rails app
 
-This README would normally document whatever steps are necessary to get the
+This README documents steps necessary to get the
 application up and running.
 
-Things you may want to cover:
 
 * Ruby version
+  - 2.7.4
 
 * System dependencies
+  - See [Dependencies](./Gemfile) gem file
 
 * Configuration
 
