@@ -9,7 +9,11 @@ application up and running.
 
 * System dependencies
   - See [Dependencies](./Gemfile) gem file
-
+* Installation 
+  - ```git clone``` this [repo](https://github.com/blessedjasonmwanza/hellorails)
+  - Run:
+    - ```cd hellorails```
+    - ```bundle install```
 * Configuration
 
 * Database creation
