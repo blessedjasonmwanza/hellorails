@@ -14,6 +14,8 @@ application up and running.
   - Run:
     - ```cd hellorails```
     - ```bundle install```
+* Run project
+  - Run ```rails s``` and visit [http://localhost:3000/](http://localhost:3000/) in your browser!
 * Configuration
 
 * Database creation
